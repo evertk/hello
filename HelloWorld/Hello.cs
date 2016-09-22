@@ -1,6 +1,5 @@
 ﻿// <copyright file="Hello.cs" company="Delta Instruments">Copyright © Delta Instruments B.V.</copyright>
 
-
 namespace HelloWorld
 {
 	class Hello
