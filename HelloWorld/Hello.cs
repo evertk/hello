@@ -28,5 +28,10 @@ namespace HelloWorld
 		{
 			// nothing to do here.
 		}
+
+		public void ChangesMadeFor1_7()
+		{
+			// Nothing to do here.
+		}
 	}
 }
