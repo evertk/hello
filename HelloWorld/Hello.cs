@@ -28,5 +28,10 @@ namespace HelloWorld
 		{
 			///sdfkljadf
 		}
+
+		public void Bla()
+		{
+			string jaja = "dit zou automagisch gemerged moeten worden toch?";
+		}
 	}
 }
