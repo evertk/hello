@@ -23,10 +23,5 @@ namespace HelloWorld
 		{
 			return "bladiebla!";
 		}
-		
-		public string Dunny()
-		{
-			return "Eat this GIT";
-		}
 	}
 }
