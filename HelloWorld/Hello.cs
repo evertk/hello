@@ -23,5 +23,10 @@ namespace HelloWorld
 		{
 			return "bladiebla!";
 		}
+
+		public void ChangesMadePost_v1_5()
+		{
+			// nothing to do here.
+		}
 	}
 }
