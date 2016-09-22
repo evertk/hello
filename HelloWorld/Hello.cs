@@ -33,10 +33,5 @@ namespace HelloWorld
 		{
 			// Nothing to do here.
 		}
-
-		public void Bla()
-		{
-			// This is FdL code
-		}
 	}
 }
