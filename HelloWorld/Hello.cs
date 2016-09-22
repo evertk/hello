@@ -1,5 +1,6 @@
 ﻿// <copyright file="Hello.cs" company="Delta Instruments">Copyright © Delta Instruments B.V.</copyright>
 
+
 namespace HelloWorld
 {
 	class Hello
@@ -31,7 +32,12 @@ namespace HelloWorld
 
 		public void ChangesMadeFor1_7()
 		{
-			// Nothing to do here.
+			int mIndex = 0;
+
+			for (int i = 0; i < 100; i++)
+			{
+				mIndex++;
+			}
 		}
 
 		public void Bla()
