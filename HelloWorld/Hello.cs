@@ -42,10 +42,6 @@ namespace HelloWorld
 		public void Bla()
 		{
 			// This is FdL code
-		}
-
-		public void Bla()
-		{
 			string jaja = "dit zou automagisch gemerged moeten worden toch?";
 		}
 	}
