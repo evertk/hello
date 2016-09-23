@@ -11,6 +11,11 @@ namespace HelloWorld
 
 		}
 
+		public string Hotfix_1_5_2()
+		{
+			return FreerksText() + " " + Text();
+		}
+
 		public string Text()
 		{
 			return "Hello World! Evertk is tha Man!" + Dummy();
@@ -33,6 +38,13 @@ namespace HelloWorld
 
 		public void ChangesMadeFor1_7()
 		{
+			int mIndex = 0;
+
+			for (int i = 0; i < 100; i++)
+			{
+				mIndex++;
+			}
+		
 			string test ="changes made in 1.7 feature branch.!!!!@$@@!@@@?@@";
 			// Nothing to do here.
 		}
@@ -40,6 +52,12 @@ namespace HelloWorld
 		public void Bla()
 		{
 			// This is FdL code
+			string jaja = "dit zou automagisch gemerged moeten worden toch?";
 		}
+
+		private World mWorld;
+
+
+		public World World { get { return mWorld; } }
 	}
 }
