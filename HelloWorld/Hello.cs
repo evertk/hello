@@ -44,5 +44,9 @@ namespace HelloWorld
 			// This is FdL code
 			string jaja = "dit zou automagisch gemerged moeten worden toch?";
 		}
+
+		private World mWorld;
+
+		public World World { get { return mWorld; } }
 	}
 }
