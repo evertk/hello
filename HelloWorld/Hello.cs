@@ -53,6 +53,7 @@ namespace HelloWorld
 
 		private World mWorld;
 
+
 		public World World { get { return mWorld; } }
 	}
 }
