@@ -51,7 +51,7 @@ namespace HelloWorld
 				mIndex++;
 			}
 		
-			string test ="changes made in 1.7 feature branch.!!!!@$@@!@@@?@@";
+			string test ="change in 2.0 branch.";
 			// Nothing to do here.
 		}
 
