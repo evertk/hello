@@ -32,7 +32,7 @@ namespace HelloWorld
 		public void Bla()
 		{
 			string jaja = "dit zou automagisch gemerged moeten worden toch?";
-			jaja += "change for branch 1.8";
+			jaja += "change for branch 1.8 + more changes!";
 		}
 	}
 }
