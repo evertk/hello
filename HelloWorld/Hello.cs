@@ -24,9 +24,14 @@ namespace HelloWorld
 			return "bladiebla!";
 		}
 
-		public void ChangesMadePost_v1_5()
+		public void Dit_is_change_in_Branch151()
 		{
-			// nothing to do here.
+			///sdfkljadf
+		}
+
+		public void Bla()
+		{
+			string jaja = "dit zou automagisch gemerged moeten worden toch?";
 		}
 	}
 }
