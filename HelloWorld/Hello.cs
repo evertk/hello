@@ -1,5 +1,7 @@
 ﻿// <copyright file="Hello.cs" company="Delta Instruments">Copyright © Delta Instruments B.V.</copyright>
 
+using System.Data.SqlTypes;
+
 namespace HelloWorld
 {
 	class Hello
@@ -31,6 +33,7 @@ namespace HelloWorld
 
 		public void ChangesMadeFor1_7()
 		{
+			string test ="changes made in 1.7 feature branch.!!!!@$@@!@@@?@@";
 			// Nothing to do here.
 		}
 
