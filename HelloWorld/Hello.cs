@@ -1,5 +1,6 @@
 ﻿// <copyright file="Hello.cs" company="Delta Instruments">Copyright © Delta Instruments B.V.</copyright>
 
+
 namespace HelloWorld
 {
 	class Hello
@@ -7,6 +8,11 @@ namespace HelloWorld
 		public Hello()
 		{
 
+		}
+
+		public string Hotfix_1_5_2()
+		{
+			return FreerksText() + " " + Text();
 		}
 
 		public string Text()
