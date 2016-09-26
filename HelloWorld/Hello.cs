@@ -55,12 +55,6 @@ namespace HelloWorld
 			// Nothing to do here.
 		}
 
-		public void Bla()
-		{
-			// This is FdL code
-			string jaja = "dit zou automagisch gemerged moeten worden toch?";
-		}
-
 		private World mWorld;
 
 
