@@ -4,7 +4,7 @@ using System.Data.SqlTypes;
 
 namespace HelloWorld
 {
-	class Hello
+	internal class Hello
 	{
 		public Hello()
 		{
